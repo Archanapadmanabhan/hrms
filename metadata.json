@@ -1,0 +1,14 @@
+{
+  "name": "Orbyx HRMS",
+  "description": "Orbyx HRMS for organization setup, employee lifecycle, leaves, payroll, expenses, hardware and digital assets, shifts and attendance, and client deployment management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API",
+    "Role-aware HRMS demo",
+    "Organization Setup separated from Employee Setup",
+    "Payroll and Expense Claims",
+    "Salary Advances and Travel Petty Cash tracking",
+    "Hardware and Software / Digital Asset tracking",
+    "Client organization and employee assignment lifecycle"
+  ]
+}
